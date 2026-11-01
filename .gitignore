@@ -11,8 +11,8 @@ build/
 
 # Environment variables & local credentials
 .env
-.env.local
-.env.*.local
+# .env.local
+# .env.*.local
 .env.*
 !.env.example
 *.local
